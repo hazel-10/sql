@@ -5,9 +5,8 @@ select name, id, weight from student;
   
 
 select name || '''s ID : ' || id || ', WEIGHT is ' || weight || 'Kg' "ID AND WEIGHT" 
-
 from student; 
-  
+
 
 desc emp; 
 
